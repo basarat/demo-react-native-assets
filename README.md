@@ -1,0 +1,1 @@
+# demo-react-native-assets
